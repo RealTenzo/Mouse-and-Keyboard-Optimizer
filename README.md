@@ -39,4 +39,5 @@ This project is open-source and licensed under the MIT License. See the [LICENSE
 You are welcome to use and learn from this code, but **please do not steal, redistribute, or claim it as your own**. Proper attribution to the original author is required for redistribution.
 
 ## Contact:
-If you have any questions or feedback, feel free to open an issue on the repository or contact me directly.
+If you have any questions or feedback, feel free to open an issue on the repository or contact me directly Using The Following [Link](https://bit.ly/TenzoWeb)
+
